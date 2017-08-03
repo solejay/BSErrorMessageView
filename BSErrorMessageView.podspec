@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     	= "https://github.com/BenjaminSarkisyan/BSErrorMessageView"
   s.author       	= { "Beniamin Sarkisyan" => "beniamin.sarkisyan@gmail.com" }
   s.platform     	= :ios, "6.0"
-  s.source        = { :git => "https://github.com/BenjaminSarkisyan/BSErrorMessageView.git" }
+  s.source        = { :git => "https://github.com/solejay/BSErrorMessageView.git" }
   s.source_files  = 'Source/*.{h,m}'
   s.resources     = "Source/BSResources.bundle"
   s.requires_arc 	= true
